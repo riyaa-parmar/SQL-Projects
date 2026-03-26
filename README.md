@@ -1,9 +1,9 @@
-# 📊 SQL Project 1 – Customer Database Management System
+# 📊 SQL Projects Repository
 
-## 📌 Project Description
-This project demonstrates the creation and management of a **Customer Database System using SQL**. It covers essential SQL operations such as database creation, table creation, data insertion, updating records, and data manipulation.
+## 📌 Overview
+This repository contains **SQL projects** that demonstrate database design, data manipulation, and real-world problem-solving using SQL.
 
-The project is designed to help beginners understand how real-world database systems work.
+The projects focus on core concepts such as CRUD operations and relational database management.
 
 ---
 
@@ -13,81 +13,75 @@ The project is designed to help beginners understand how real-world database sys
 
 ---
 
-## 🗂️ Database Structure
+## 📂 Projects Included
 
-### Database Name: `project1`
-
-### Table: Customer
-
-| Column Name | Data Type | Description |
-|------------|----------|------------|
-| CustomerID | INT (Primary Key) | Unique ID for each customer |
-| Name       | VARCHAR(50) | Customer name |
-| Email      | VARCHAR(100) | Customer email |
-| Address    | VARCHAR(100) | Customer address |
+### 🔹 Project 1: Customer Database Management System
+- Created a database to manage customer details  
+- Performed operations like INSERT, UPDATE, DELETE  
+- Applied constraints such as Primary Key  
+- Practiced basic SQL queries  
 
 ---
 
 ## 🚀 Features
 
-- ✔️ Create database and tables  
-- ✔️ Insert multiple records  
-- ✔️ Update existing data  
-- ✔️ Delete records  
-- ✔️ Apply constraints (Primary Key)  
-- ✔️ Perform data queries  
+- ✔️ Database creation and table design  
+- ✔️ Data insertion and manipulation  
+- ✔️ CRUD operations (Create, Read, Update, Delete)  
+- ✔️ Query execution and data retrieval  
 
 ---
 
-## 📥 Sample Data
-
-The project includes sample customer records such as:
-
-- Alice – Delhi  
-- Bob – Mumbai  
-- Charlie – Ahmedabad  
-
----
-
-## 🔍 SQL Operations Covered
+## 🔍 SQL Concepts Covered
 
 - `CREATE DATABASE`
-- `USE`
 - `CREATE TABLE`
 - `INSERT INTO`
 - `SELECT`
 - `UPDATE`
 - `DELETE`
+- `WHERE`
+- `ORDER BY`
 
 ---
 
 ## 📈 Learning Outcomes
 
-- Understand how databases are structured  
-- Learn basic SQL syntax and commands  
-- Perform CRUD operations (Create, Read, Update, Delete)  
-- Gain hands-on experience with real-world data handling  
+- Understand relational database structure  
+- Gain hands-on experience with SQL queries  
+- Learn how to manage and manipulate data  
+- Build a strong foundation for data analysis  
 
 ---
 
-## 📎 How to Run
+## 📎 How to Use
 
-1. Open MySQL Workbench or any SQL tool  
-2. Copy the SQL script from this repository  
-3. Execute the queries step-by-step  
-4. View and modify the data  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/parmarriya195-dotcom/SQL-Projects.git
+   ```
+
+2. Open MySQL Workbench or any SQL tool  
+
+3. Run the SQL files step-by-step  
 
 ---
 
 ## 🤝 Contribution
 
-Feel free to fork this repository and improve it by adding:
-- More tables (Orders, Products, etc.)
-- Advanced queries (JOIN, GROUP BY)
-- Constraints and relationships  
+Feel free to fork this repository and improve it by:
+- Adding more projects  
+- Writing advanced SQL queries (JOIN, Subqueries)  
+- Improving database design  
 
 ---
 
 ## ⭐ Conclusion
 
-This project is a beginner-friendly introduction to SQL and database management, helping build a strong foundation for data analysis and backend development.
+This repository is a beginner-friendly collection of SQL projects that helps in understanding database concepts and improving practical SQL skills.
+
+---
+
+## 👩‍💻 Author
+
+**Riya Parmar**  
