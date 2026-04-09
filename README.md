@@ -1,98 +1,92 @@
 # 📊 SQL Projects Portfolio
 
-Welcome to my SQL Projects repository!  
-This repository showcases my hands-on work with SQL, covering database design, data manipulation, and query optimization through real-world scenarios.
+This repository contains a collection of SQL projects demonstrating my skills in database design, data manipulation, and advanced querying.
+It covers everything from **basic CRUD operations** to **complex joins, subqueries, and window functions**.
 
 ---
 
-## 🚀 About This Repository
+## 📁 Projects Included
 
-This project collection demonstrates my practical understanding of:
+### 🔹 Project 1: Customer Order System
 
-- Writing efficient SQL queries  
-- Designing relational databases  
-- Performing CRUD operations  
-- Using joins, aggregations, and subqueries  
-- Solving real-world data problems  
+* Created tables: Customer, Orders, Product, OrderDetail
+* Performed:
 
----
-
-## 📂 Projects Included
-
-### 🔹 Project 1: Basic SQL Operations
-- Database creation and table design  
-- Insert, Update, Delete operations  
-- Filtering and sorting data  
-- Use of WHERE, ORDER BY, GROUP BY  
-
-📌 Focus: **SQL Fundamentals**
+  * CRUD operations (INSERT, UPDATE, DELETE)
+  * Filtering using WHERE
+  * Aggregate functions (SUM, AVG, MAX, MIN)
+  * Sorting and grouping
+* Demonstrates basic database operations and relationships
 
 ---
 
-### 🔹 Project 2: Advanced Queries & Data Handling
-- Complex joins (INNER, LEFT, RIGHT)  
-- Aggregate functions (SUM, COUNT, AVG)  
-- Subqueries and nested queries  
-- Data analysis using SQL  
+### 🔹 Project 2: Business Data Analysis
 
-📌 Focus: **Intermediate to Advanced SQL**
+* Tables: Customers, Orders, Employees
+* Concepts covered:
+
+  * INNER JOIN, LEFT JOIN, RIGHT JOIN, UNION
+  * Subqueries and nested queries
+  * Date functions (YEAR, MONTH, DATEDIFF)
+  * String functions (UPPER, LOWER, REPLACE, TRIM)
+  * Window functions (RANK, running total)
+  * CASE statements for categorization
+* Focused on real-world business data analysis
 
 ---
 
-### 🔹 Project 3: Real-world Database Scenario
-- Multi-table relational database  
-- Real-life use case simulation  
-- Business-related queries  
-- Data extraction for insights  
+### 🔹 Final Project: Student Management System
 
-📌 Focus: **Practical Application**
+* Tables: Students, Department, Courses, Instructor, Enrollment
+* Features:
+
+  * Fully relational database with foreign keys
+  * Complex joins and filtering
+  * Grouping and aggregation
+  * Window functions and subqueries
+  * Real-world academic system simulation
+* Demonstrates strong database design and query optimization skills
+
+---
+
+### 🔹 Practical Exam: Library Management System
+
+* Tables: Authors, Books, Members, Transactions
+* Key Features:
+
+  * CRUD operations
+  * Advanced joins (INNER, LEFT, RIGHT, FULL via UNION)
+  * Subqueries and nested queries
+  * Aggregation and grouping
+  * Date and string functions
+  * Window functions and CASE statements
+* Covers almost all important SQL concepts in one project
 
 ---
 
 ## 🛠️ Technologies Used
 
-- SQL (MySQL / SQL Server)
-- DBMS Concepts
-- Git & GitHub
+* SQL (MySQL)
+* Relational Database Design
 
 ---
 
-## 📌 Key SQL Concepts Covered
+## 🎯 Skills Demonstrated
 
-- DDL (CREATE, ALTER, DROP)  
-- DML (INSERT, UPDATE, DELETE)  
-- Joins (INNER, LEFT, RIGHT)  
-- Aggregate Functions  
-- Subqueries  
-- Constraints (PRIMARY KEY, FOREIGN KEY, NOT NULL)  
-
----
-
-## ▶️ How to Run
-
-1. Install any SQL database (MySQL / SQL Server)
-2. Open your SQL environment (Workbench / SSMS)
-3. Import `.sql` files from this repository
-4. Execute queries step-by-step
+* Database Design & Normalization
+* Data Manipulation (CRUD Operations)
+* Complex Joins & Relationships
+* Subqueries & Nested Queries
+* Aggregate & Window Functions
+* Data Analysis using SQL
 
 ---
 
-## 💡 Learning Outcome
+## 🚀 How to Run
 
-- Strong foundation in SQL queries  
-- Ability to design structured databases  
-- Problem-solving skills using data  
-- Understanding of real-world data scenarios  
+1. Open MySQL / SQL environment
+2. Copy and execute the SQL scripts
+3. Run queries step-by-step to see results
 
 ---
 
-## 👩‍💻 Author
-
-**Riya Parmar**
-
-GitHub:  
-https://github.com/riyaa-parmar
-
-## ⭐ Support
-
-If you found this helpful, please ⭐ the repository!
